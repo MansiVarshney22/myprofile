@@ -1,0 +1,25 @@
+@media screen and (max-width: 1000px)
+{
+	.last-section-wrapper  {
+		flex-direction: column;
+}
+}
+@media screen and (max-width: 1000px)
+{
+	.grid-container{
+		display: flex;
+		flex-direction: column;
+}
+	.footer-wrapper{
+	display: flex;
+	flex-direction: column;
+}
+}
+@media screen and (max-width: 1024px)
+{
+	.nav-link{
+		display: grid;
+	grid-template-columns: auto;
+	}
+
+}
